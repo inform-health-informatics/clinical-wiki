@@ -1,7 +1,7 @@
 
 # Standard Operating Procedure for booking a PACU bed
 UCLH Critical Care
-Version 2018-03-03v1
+Version 2018-03-03v2
 
 # Justification
 
@@ -110,5 +110,5 @@ mobile: 07977 583315
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzM3NDQ2Nl19
+eyJoaXN0b3J5IjpbLTUwMTA1NjAzNV19
 -->
