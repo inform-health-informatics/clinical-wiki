@@ -11,14 +11,16 @@ Monitor for
 
 ![Trousseau's sign](https://upload.wikimedia.org/wikipedia/commons/9/97/Troussau%27s_Sign_of_Latent_Tetany.jpg)
 
-|  |  |
+|iCa|Comment  |
 |--|--|
-|  |  |
+| <0.9 |low  |
+| 0.9 -- 1.1 | OK |
+| > 1.1 | High |
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzgwMjE1NTddfQ==
+eyJoaXN0b3J5IjpbNzEyNjcwNjAxXX0=
 -->
